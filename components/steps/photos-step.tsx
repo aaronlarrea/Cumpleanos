@@ -9,12 +9,12 @@ interface PhotosStepProps {
 }
 
 const photos = [
-  { src: "photos/photo-4.jpg", caption: "Foto de la cumpleañera" },
-  { src: "photos/photo-1.jpg", caption: "Concierto de Eladio Carrion" },
-  { src: "photos/photo-3.jpg", caption: "LA foto" },
-  { src: "photos/photo-2.jpg", caption: "Con frio" },
-  { src: "photos/photo-5.jpg", caption: "La cumpleañera siendo mala a los bolos" },
-  { src: "photos/photo-6.jpg", caption: "UCH" },
+  { src: "/photos/photo-4.jpg", caption: "Foto de la cumpleañera" },
+  { src: "/photos/photo-1.jpg", caption: "Concierto de Eladio Carrion" },
+  { src: "/photos/photo-3.jpg", caption: "LA foto" },
+  { src: "/photos/photo-2.jpg", caption: "Con frio" },
+  { src: "/photos/photo-5.jpg", caption: "La cumpleañera siendo mala a los bolos" },
+  { src: "/photos/photo-6.jpg", caption: "UCH" },
 ];
 
 export function PhotosStep({ onNext }: PhotosStepProps) {

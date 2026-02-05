@@ -60,14 +60,14 @@ export function LetterStep() {
 
               <p>
                 Feliz cumpleanos princesa, espero que este año sea increible para ti y
-                que sigas siendo la persona tan increible que eres. Te amo <3
+                que sigas siendo la persona tan increible que eres. Te amo
               </p>
             </div>
 
             <div className="flex flex-col items-end gap-1 pt-4">
               <p className="text-base text-foreground/85">Con todo mi amor,</p>
               <p className="font-sans text-lg font-semibold italic text-primary">
-                Tu persona favorita
+                Aaron
               </p>
             </div>
           </div>
